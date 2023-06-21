@@ -1,4 +1,4 @@
-# Sparks Foundation - Basic Banking System
+# Basic Banking System
 
 ## Index
 - [Description](#Description)
